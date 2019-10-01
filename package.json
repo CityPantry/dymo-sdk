@@ -1,0 +1,18 @@
+{
+  "name": "@citypantry/dymo-sdk",
+  "version": "3.0.0",
+  "description": "Dymo Javascript SDK",
+  "main": "DYMO.Label.Framework.3.0.js",
+  "license": "UNLICENSED",
+  "keywords": [
+    "dymo"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CityPantry/dymo-sdk.git"
+  },
+  "homepage": "https://github.com/CityPantry/dymo-sdk#readme",
+  "dependencies": {
+    "@citypantry/dymo-sdk": "^3.0.0"
+  }
+}
