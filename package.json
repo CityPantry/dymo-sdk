@@ -1,11 +1,13 @@
 {
   "name": "@citypantry/dymo-sdk",
-  "version": "3.0.1",
+  "version": "4.0.0",
   "description": "Dymo Javascript SDK",
-  "main": "DYMO.Label.Framework.3.0.js",
+  "main": "dymo.connect.framework.js",
   "license": "UNLICENSED",
   "keywords": [
-    "dymo"
+    "dymo",
+    "labelwriter",
+    "printer"
   ],
   "repository": {
     "type": "git",
